@@ -1,0 +1,64 @@
+{
+  "faucets": [
+    {
+      "name": "Polygon Faucet",
+      "url": "https://faucet.polygon.technology/"
+    }
+  ],
+  "rpcs": [
+    {
+      "name": "Alchemy",
+      "url": "https://polygon-rpc.com/"
+    },
+    {
+      "name": "QuickNode",
+      "url": "https://polygon.faucet.quicknode.com/"
+    }
+  ],
+  "wallets": [
+    {
+      "name": "Metamask",
+      "url": "https://metamask.io/"
+    },
+    {
+      "name": "Safe",
+      "url": "https://safe.global/"
+    },
+    {
+      "name": "Coinbase Wallet",
+      "url": "https://www.coinbase.com/wallet"
+    },
+    {
+      "name": "OKX",
+      "url": "https://www.okx.com/web3"
+    },
+    {
+      "name": "Trezor",
+      "url": "https://trezor.io/"
+    },
+    {
+      "name": "Ledger",
+      "url": "https://www.ledger.com/"
+    }
+  ],
+  "oracles": [
+    {
+      "name": "Chainlink",
+      "url": "https://chain.link/"
+    },
+    {
+      "name": "Band Protocol",
+      "url": "https://bandprotocol.com/"
+    },
+    {
+      "name": "API3",
+      "url": "https://api3.org/"
+    }
+  ],
+  "grants": [
+    {
+      "name": "Polygon Grants",
+      "url": "https://polygon.technology/grants"
+    }
+  ]
+}
